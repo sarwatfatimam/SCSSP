@@ -1,6 +1,5 @@
-% Face (class 1) = mTypeOne % Scramble (class 0) = mTypeTwo
-% Step 1: Separate Face & Scrambled Face from Y, Add corresponding epochs in type
-% one and type two from X
+% Class 1 = mTypeOne % class 0 =  mTypeTwo
+
 function [mTypeOne, mTypeTwo] = DataTransformation(X, y, sfreq, tmax, tmin, tmin_original); 
 disp('Applying the desired time window.')
 beginning = (tmin - tmin_original) * sfreq+1;
