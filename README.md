@@ -8,4 +8,4 @@ Aghaei, Amirhossein S., Mohammad Shahin Mahanta, and Konstantinos N. Plataniotis
 2. Run SCSSP.m 
 3. Make sure that you give the correct name and dimension of the data.
 
-If you use this code for the algorithm, kindly share your feedback and performance
+**Note** kindly share your feedback for this code. Thankyou. 
